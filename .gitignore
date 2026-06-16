@@ -1,0 +1,21 @@
+# API keys / secrets
+.env
+*.key
+secrets/
+
+# Generated outputs
+*_output.docx
+output.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
